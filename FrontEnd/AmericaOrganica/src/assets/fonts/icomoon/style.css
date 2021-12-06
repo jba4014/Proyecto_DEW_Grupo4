@@ -48,9 +48,9 @@
 .icon-envelope-o:before {
   content: "\f003";
 }
-.icon-heart:before {
+/*.icon-heart:before {
   content: "\f004";
-}
+}*/
 .icon-star:before {
   content: "\f005";
 }
@@ -453,9 +453,9 @@
 .icon-star-half:before {
   content: "\f089";
 }
-.icon-heart-o:before {
+/*.icon-heart-o:before {
   content: "\f08a";
-}
+}*/
 .icon-sign-out:before {
   content: "\f08b";
 }
@@ -1737,9 +1737,9 @@
 .icon-street-view:before {
   content: "\f21d";
 }
-.icon-heartbeat:before {
+/*.icon-heartbeat:before {
   content: "\f21e";
-}
+}*/
 .icon-venus:before {
   content: "\f221";
 }
